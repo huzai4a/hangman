@@ -1,3 +1,4 @@
+NOTE: This project was created before I used github, which is why I have multiple versions.
 PROJECT TITLE: Hangman
 PURPOSE OF PROJECT: To become more experienced with code and showcase what I've learned about java so far.
 VERSION or DATE: V9 (All versions are uploaded)
